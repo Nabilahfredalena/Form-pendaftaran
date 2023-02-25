@@ -1,0 +1,19 @@
+body {
+  background-image: url(img/aku.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1100pt;
+}
+.wrap {
+  width: 40%;
+  margin: auto;
+  color: white;
+  font-family: comic sans ms;
+}
+
+table {
+  margin: auto;
+}
+table td {
+  padding: 5px;
+}
